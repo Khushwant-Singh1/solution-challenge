@@ -131,6 +131,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+fin-chat/
 
 # Spyder project settings
 .spyderproject
